@@ -1,5 +1,5 @@
 # Tourism-Hackathon-Project
-When working on you task FOLLOW THESE STEPS:
+When working on your task FOLLOW THESE STEPS:
 
 Step-by-Step Workflow
 
